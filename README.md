@@ -13,6 +13,6 @@ Implement the following:
 * Display a slider to allow the user to move through slices arbitrarily.
 * Display front and side views in addition to the top view (with independent sliders for each view).
 * Perform maximum intensity projection. Implement **MIP** for all three views: front view, side view and top view (it does not matter which direction you choose for the side view).
-* Display thumbnail images for all slices of the data set (use your own resize function).
+* Display thumbnail images for all slices of the data set (here I used the **Nearest Neighbour** algorithm).
 *  Allow the image to be resized(using **Billinear Interpolation**).
 * Perform histogram equalization on the data set (not on the images) to scale from the signed short int range to the unsigned byte range. 
