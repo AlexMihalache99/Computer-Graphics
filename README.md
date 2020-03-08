@@ -7,9 +7,6 @@ This project was part of my university degree. The **aims** of this coursework w
 * Work with a **three-dimensional** data set.
 * Combine interaction with visual feedback.
 
-Coursework mark **100/100**.
-
-
 # Exercise
 Implement the following:
 * Display a slider to allow the user to move through slices arbitrarily.
